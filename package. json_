@@ -1,0 +1,13 @@
+{
+  "name": "kufu-bot",
+  "version": "1.0.0",
+  "description": "Bot Kufu",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.14.1",
+    "jsonfile": "^6.1.0"
+  }
+}
